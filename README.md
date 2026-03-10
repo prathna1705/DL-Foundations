@@ -16,7 +16,7 @@ The main objectives of this project are:
 
 Linear Regression tries to learn the relationship between input feature X and output y using the equation:
 
-y = wx + b
+$y = mx + b$
 
 Where:
 * w = weight (slope)
